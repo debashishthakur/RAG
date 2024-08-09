@@ -7,7 +7,6 @@ This repository contains a Retrieval-Augmented Generation (RAG) chatbot trained 
 - RAG-based chatbot for company-specific queries
 - Integration with Pinecone vector database
 - Optimized chunking strategies for better retrieval
-- Easy-to-use interface for querying company data
 
 ## Prerequisites
 
@@ -67,6 +66,17 @@ We use Pinecone as our vector database for its efficiency in similarity search o
 - Uploading vectors to the index
 - Performing similarity searches
 
+## Documentation
+
+All steps of the project, including detailed explanations of the implementation and room for further improvements, have been documented and uploaded as PDF files. These documents can be found in the `docs/` directory of this repository. Please refer to these PDFs for in-depth information on:
+
+- Data preprocessing techniques
+- Model architecture and training process
+- Chunking strategy implementation details
+- Pinecone integration and optimization
+- Performance metrics and evaluation results
+- Potential areas for future enhancements
+
 ## Contributing
 
 Contributions to this project are welcome. Please follow these steps:
@@ -77,10 +87,6 @@ Contributions to this project are welcome. Please follow these steps:
 4. Commit your changes (`git commit -am 'Add some feature'`)
 5. Push to the branch (`git push origin feature/your-feature`)
 6. Create a new Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.
 
 ## Acknowledgments
 
