@@ -2,6 +2,10 @@
 
 This repository contains a Retrieval-Augmented Generation (RAG) chatbot trained on company-specific data. The chatbot uses Pinecone as its vector database for efficient similarity search and implements optimized chunking strategies for improved performance.
 
+This is a flowchart of my project.
+
+![FLOWCHART](Rag_company_specific.png)
+
 ## Features
 
 - RAG-based chatbot for company-specific queries
