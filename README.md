@@ -4,7 +4,7 @@ This repository contains a Retrieval-Augmented Generation (RAG) chatbot trained 
 
 This is a flowchart of my project.
 
-![FLOWCHART](Screenshot 2024-08-14 225908.png)
+![FLOWCHART](Rag_company_specific.png)
 
 ## Features
 
